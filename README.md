@@ -1,4 +1,8 @@
-# Data Analytics and Visualization Bootcamp
+# Data Analytics and Visualization Software Developer Program
 
-:zap: *A repository for UCF analytics program* :zap: 
+*This repository will include* :
+<dl>
+<dd>:zap: projects from UCF Data Analytics and Visualization Software Developer Program :zap: </dd>
+<dd> :computer: Data structure and algorithms</dd>
+</dl>
 
