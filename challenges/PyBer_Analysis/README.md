@@ -5,8 +5,8 @@ The purpose of this analysis was to determine the total weekly fares for each ci
 
 ## Resources
 - Data Source: 
-[city_data.csv](https://github.com/nseddon/PyBer_Analysis/blob/main/Resources/city_data.csv), 
-[ride_data.csv](https://github.com/nseddon/PyBer_Analysis/blob/main/Resources/ride_data.csv)
+[city_data.csv](https://github.com/DvegaDv01/bootcamp/blob/main/challenges/PyBer_Analysis/Resources/city_data.csv), 
+[ride_data.csv](https://github.com/DvegaDv01/bootcamp/blob/main/challenges/PyBer_Analysis/Resources/ride_data.csv)
 
 - Software: Python 3.7.6, Anaconda 4.10.1
 
